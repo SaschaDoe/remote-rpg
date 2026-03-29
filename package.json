@@ -4,6 +4,10 @@
 	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
+		"play": "claude --initial-prompt \"Lies die CLAUDE.md und world/settings.json. Wenn die Welt noch nicht initialisiert ist (status: uninitialized), begrüße den Spieler auf Deutsch und frage ob er eine neue Welt erschaffen möchte (/weltenbauer) oder eine bestehende Welt laden will. Wenn die Welt bereits existiert, fasse kurz den Stand zusammen und frage ob er spielen (/spielleiter) oder die Welt erweitern (/weltenbauer) möchte.\"",
+		"roll": "tsx scripts/roll.ts",
+		"web": "docker compose up -d && vite dev --host",
+		"web:stop": "docker compose down",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
