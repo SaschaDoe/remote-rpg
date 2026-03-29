@@ -1,0 +1,16 @@
+// Constraints
+CREATE CONSTRAINT world_name IF NOT EXISTS FOR (w:World) REQUIRE w.id IS UNIQUE;
+CREATE CONSTRAINT region_id IF NOT EXISTS FOR (r:Region) REQUIRE r.id IS UNIQUE;
+CREATE CONSTRAINT location_id IF NOT EXISTS FOR (l:Location) REQUIRE l.id IS UNIQUE;
+CREATE CONSTRAINT npc_id IF NOT EXISTS FOR (n:NPC) REQUIRE n.id IS UNIQUE;
+CREATE CONSTRAINT faction_id IF NOT EXISTS FOR (f:Faction) REQUIRE f.id IS UNIQUE;
+CREATE CONSTRAINT player_id IF NOT EXISTS FOR (p:Player) REQUIRE p.id IS UNIQUE;
+CREATE CONSTRAINT quest_id IF NOT EXISTS FOR (q:Quest) REQUIRE q.id IS UNIQUE;
+CREATE CONSTRAINT item_id IF NOT EXISTS FOR (i:Item) REQUIRE i.id IS UNIQUE;
+CREATE CONSTRAINT event_id IF NOT EXISTS FOR (e:Event) REQUIRE e.id IS UNIQUE;
+
+// Indexes for common lookups
+CREATE INDEX world_name_idx IF NOT EXISTS FOR (w:World) ON (w.name);
+CREATE INDEX npc_name_idx IF NOT EXISTS FOR (n:NPC) ON (n.name);
+CREATE INDEX location_name_idx IF NOT EXISTS FOR (l:Location) ON (l.name);
+CREATE INDEX region_name_idx IF NOT EXISTS FOR (r:Region) ON (r.name);
