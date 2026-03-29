@@ -1,5 +1,5 @@
 import { json } from '@sveltejs/kit';
-import type { RequestHandler } from './$types.js';
+import type { RequestHandler } from '@sveltejs/kit';
 import { transcribeAudio } from '$lib/server/voice/whisper.js';
 
 export const POST: RequestHandler = async ({ request }) => {
@@ -11,8 +11,8 @@ export const POST: RequestHandler = async ({ request }) => {
       return json({ error: 'Keine Audiodatei' }, { status: 400 });
     }
 
-    const buffer = Buffer.from(await audioFile.arrayBuffer());
-    const text = await transcribeAudio(buffer);
+    const arrayBuf = await audioFile.arrayBuffer();
+    const text = await transcribeAudio(new Uint8Array(arrayBuf));
 
     return json({ text });
   } catch (error) {

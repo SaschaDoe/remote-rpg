@@ -26,10 +26,8 @@ export async function callAgent(request: AgentRequest): Promise<AgentResponse> {
         (block: any) => block.type === 'text'
       );
       content += textBlocks.map((block: any) => block.text).join('');
-    } else if (message.type === 'result') {
-      if (message.result) {
-        content = message.result;
-      }
+    } else if (message.type === 'result' && message.subtype === 'success') {
+      content = message.result;
     }
   }
 

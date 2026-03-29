@@ -1,4 +1,4 @@
-import type { RequestHandler } from './$types.js';
+import type { RequestHandler } from '@sveltejs/kit';
 import { synthesizeSpeech } from '$lib/server/voice/piper.js';
 
 export const POST: RequestHandler = async ({ request }) => {
@@ -11,7 +11,7 @@ export const POST: RequestHandler = async ({ request }) => {
 
     const audioBuffer = await synthesizeSpeech(text);
 
-    return new Response(audioBuffer, {
+    return new Response(audioBuffer.buffer as ArrayBuffer, {
       headers: {
         'Content-Type': 'audio/wav',
         'Content-Length': audioBuffer.length.toString(),

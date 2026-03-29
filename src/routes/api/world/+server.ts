@@ -1,5 +1,5 @@
 import { json } from '@sveltejs/kit';
-import type { RequestHandler } from './$types.js';
+import type { RequestHandler } from '@sveltejs/kit';
 import { createNode, createRelationship, getAllNodes } from '$lib/server/db/graph.js';
 import { storeKnowledge } from '$lib/server/db/vectors.js';
 import type { World, Region, Location, NPC, Faction } from '$lib/types.js';

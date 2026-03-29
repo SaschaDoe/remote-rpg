@@ -1,5 +1,5 @@
 import { json } from '@sveltejs/kit';
-import type { RequestHandler } from './$types.js';
+import type { RequestHandler } from '@sveltejs/kit';
 import { handleMessage } from '$lib/server/agents/orchestrator.js';
 
 export const POST: RequestHandler = async ({ request }) => {

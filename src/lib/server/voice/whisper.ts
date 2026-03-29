@@ -1,8 +1,8 @@
 import { WHISPER_URL } from '$env/static/private';
 
-export async function transcribeAudio(audioBuffer: Buffer): Promise<string> {
+export async function transcribeAudio(audioBuffer: Uint8Array): Promise<string> {
   const formData = new FormData();
-  formData.append('audio_file', new Blob([audioBuffer]), 'audio.webm');
+  formData.append('audio_file', new Blob([audioBuffer.buffer as ArrayBuffer]), 'audio.webm');
   formData.append('language', 'de');
 
   const response = await fetch(`${WHISPER_URL}/asr?output=json&language=de`, {
