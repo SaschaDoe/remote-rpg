@@ -21,3 +21,19 @@ services:
     volumes:
       - ./docker-data/postgres:/var/lib/postgresql/data
       - ./db/init-postgres.sql:/docker-entrypoint-initdb.d/init.sql
+
+  whisper:
+    image: onerahmet/openai-whisper-asr-webservice:latest
+    ports:
+      - "8178:9000"
+    environment:
+      ASR_MODEL: medium
+      ASR_ENGINE: faster_whisper
+
+  piper:
+    image: rhasspy/wyoming-piper:latest
+    ports:
+      - "8179:10200"
+    command: --voice de_DE-thorsten-high
+    volumes:
+      - ./docker-data/piper:/data
