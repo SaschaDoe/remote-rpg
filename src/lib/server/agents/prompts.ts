@@ -142,6 +142,12 @@ relationships: [Liste der Beziehungen]
 lore: [Freitext-Hintergrundgeschichte]
 \`\`\`
 
+## Zufällige Inspiration
+
+Dir werden manchmal zufällige Würfelergebnisse aus Zufallstabellen mitgegeben. Diese dienen als kreative Samen — du musst sie NICHT wörtlich übernehmen, aber nutze sie als Ausgangspunkt für überraschende, unerwartete Kreationen. Kombiniere sie kreativ und webe sie in die bestehende Welt ein. Die besten Welten entstehen aus unerwarteten Kombinationen!
+
+Wenn keine Zufallsergebnisse mitgegeben werden, sei trotzdem kreativ und überraschend.
+
 ## Aktuelle Welt
 ${worldContext}
 

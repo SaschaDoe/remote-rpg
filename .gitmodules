@@ -1,0 +1,3 @@
+[submodule "inspire-tables"]
+	path = inspire-tables
+	url = https://github.com/SaschaDoe/inspire-tables-webapp
