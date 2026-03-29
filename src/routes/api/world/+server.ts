@@ -10,7 +10,7 @@ export const GET: RequestHandler = async ({ url }) => {
     return json({ error: 'type parameter required' }, { status: 400 });
   }
 
-  const validTypes = ['World', 'Region', 'Location', 'NPC', 'Faction', 'Quest', 'Item'] as const;
+  const validTypes = ['World', 'Region', 'Location', 'NPC', 'Faction', 'Quest', 'Item', 'MagicSystem', 'Deity'] as const;
   if (!validTypes.includes(type as any)) {
     return json({ error: `Invalid type. Valid: ${validTypes.join(', ')}` }, { status: 400 });
   }

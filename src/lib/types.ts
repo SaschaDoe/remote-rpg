@@ -38,6 +38,36 @@ export interface Faction {
   name: string;
   goals: string;
   alignment: string;
+  symbol: string;
+  size: string;
+  influence: string;
+  wealth: string;
+  motivation: string;
+}
+
+export interface MagicSystem {
+  id: string;
+  name: string;
+  source: string;
+  channel: string;
+  cost: string;
+  limitations: string;
+  sideEffects: string;
+  rules: string;
+  weakness: string;
+  senses: string;
+  visual: string;
+  explicitness: number; // 1-10: how well-defined
+  reliability: number; // 1-10: how consistent
+}
+
+export interface Deity {
+  id: string;
+  name: string;
+  domains: string;
+  sacredAnimal: string;
+  status: string;
+  description: string;
 }
 
 export interface Player {

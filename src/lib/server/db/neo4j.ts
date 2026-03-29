@@ -26,6 +26,8 @@ export async function initNeo4jSchema(): Promise<void> {
       'CREATE CONSTRAINT quest_id IF NOT EXISTS FOR (q:Quest) REQUIRE q.id IS UNIQUE',
       'CREATE CONSTRAINT item_id IF NOT EXISTS FOR (i:Item) REQUIRE i.id IS UNIQUE',
       'CREATE CONSTRAINT event_id IF NOT EXISTS FOR (e:Event) REQUIRE e.id IS UNIQUE',
+      'CREATE CONSTRAINT magicsystem_id IF NOT EXISTS FOR (m:MagicSystem) REQUIRE m.id IS UNIQUE',
+      'CREATE CONSTRAINT deity_id IF NOT EXISTS FOR (d:Deity) REQUIRE d.id IS UNIQUE',
     ];
     for (const constraint of constraints) {
       await session.run(constraint);

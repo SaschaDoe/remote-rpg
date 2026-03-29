@@ -1,8 +1,8 @@
 import { getDriver } from './neo4j.js';
 import { randomUUID } from 'crypto';
-import type { World, Region, Location, NPC, Faction, Quest, Item, GameEvent, Player } from '$lib/types.js';
+import type { World, Region, Location, NPC, Faction, Quest, Item, GameEvent, Player, MagicSystem, Deity } from '$lib/types.js';
 
-type NodeLabel = 'World' | 'Region' | 'Location' | 'NPC' | 'Faction' | 'Quest' | 'Item' | 'Event' | 'Player';
+type NodeLabel = 'World' | 'Region' | 'Location' | 'NPC' | 'Faction' | 'Quest' | 'Item' | 'Event' | 'Player' | 'MagicSystem' | 'Deity';
 
 // === Generic CRUD ===
 
