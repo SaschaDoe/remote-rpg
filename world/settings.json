@@ -1,8 +1,8 @@
 {
-  "name": "",
-  "genre": "",
-  "magicSystem": "",
-  "rules": "",
-  "description": "",
-  "status": "uninitialized"
+  "name": "Aschenlande",
+  "genre": "Dark Fantasy / Romance",
+  "magicSystem": "Schleiermagie",
+  "rules": "Mittelalterliche Welt. Magie ist selten und an heilige Orte gebunden. Gewirkt durch geweihte Kleidungsstücke. Stärke hängt von der Klarheit der Absicht ab. Magie fühlt sich als Temperaturwechsel an. Fehlgeschlagene Magie lockt göttliche Kreaturen an. Kinder schwächen Magie in ihrer Nähe.",
+  "description": "Eine düstere mittelalterliche Welt, in der Schönheit und Armut dicht beieinander liegen. Die Mächtigen regieren mit eiserner Hand, doch in den Schatten regt sich etwas — Widerstand, verbotene Magie und Leidenschaften, die Standesgrenzen sprengen. Magie ist wie ein dünner Schleier über der Welt — überall vorhanden, aber nur an bestimmten Orten und mit den richtigen Mitteln greifbar.",
+  "status": "active"
 }

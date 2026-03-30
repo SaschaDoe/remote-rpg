@@ -1,0 +1,10 @@
+{
+  "name": "Burg Dunkelstein",
+  "type": "Festung/Adelssitz",
+  "description": "Eine imposante Burg auf den höchsten Klippen der Grauküste, halb in Nebel gehüllt. Sitz des Hauses Dunkelstein, das über die gesamte Region herrscht. Die Burg ist alt, kalt und voller Geheimnisse. In den Kellergewölben soll es Tunnel geben, die bis zum Meer führen.",
+  "region": "graukueste",
+  "features": ["Große Halle", "Bibliothek", "Kellergewölbe mit Tunneln", "Kapelle der Vellara"],
+  "population": "etwa 80 (Adel, Diener, Wachen)",
+  "mood": "Bedrückend prächtig. Kalter Reichtum. Die Diener flüstern, der junge Lord sei... anders.",
+  "notes": "Lord Adalbert von Dunkelstein residiert hier. In der Kapelle befindet sich ein uralter Schleier-Ort."
+}

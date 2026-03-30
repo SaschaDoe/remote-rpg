@@ -1,0 +1,30 @@
+{
+  "name": "Sable",
+  "race": "Mensch",
+  "role": "Wachkapitänin von Burg Dunkelstein",
+  "personality": "Offenheit: mittel — pragmatisch, aber heimlich romantisch. Gewissenhaftigkeit: sehr hoch — Pflicht über alles, immer. Extraversion: niedrig — wenige Worte, jedes zählt. Verträglichkeit: niedrig nach außen — hart, fordernd, aber beschützt die, die sie respektiert. Neurotizismus: hoch — nachts allein trinkt sie, weil die Erinnerungen kommen.",
+  "motivation": "Agape — eine selbstlose Liebe zu den Menschen, die sie beschützt. Würde sterben für die Burg. Aber sie will einmal in ihrem Leben für sich selbst leben, nicht nur für andere.",
+  "secrets": [
+    "Hat in ihrer Jugend eine Kameradin geliebt — Rena, die im Krieg fiel. Hat seitdem nie wieder jemanden emotional an sich herangelassen.",
+    "Geht seit zwei Jahren verkleidet ins Bordell 'Der Silberne Schwan' in Silberbach. Ihre Stammhure: Velka. Die einzige Frau bei der Sable die Kontrolle völlig verliert — laut wird, bettelt, sich fallen lässt. Zahlt doppelt. Sagt nie ihren echten Namen.",
+    "Velka ist jetzt auf der Burg — als Küchengehilfin. Sable hat sie sofort erkannt und ist in Panik. Wenn das rauskommt, ist ihre Karriere vorbei. Eine Wachkapitänin im Bordell.",
+    "Trinkt nachts allein im Wachturm — stärker seit Velka auf der Burg ist. Der Hass den sie zeigt ist Angst. Die Angst kommt daher dass sie Velka will und sich dafür verachtet.",
+    "Verachtet Hektor — spürt dass er ein Verräter ist, hat aber keine Beweise.",
+    "Findet Gina faszinierend — diese kleine Frau, die einem Lord widerspricht und Risse im Schleier schließt. Erinnert sie an Rena. Und an etwas Neues."
+  ],
+  "location": "burg-dunkelstein",
+  "faction": "haus-dunkelstein",
+  "relationships": {
+    "adalbert-von-dunkelstein": "Loyal bis in den Tod. Respektiert ihn. Sieht den Jungen, den sie trainiert hat.",
+    "hektor-stallmeister": "Misstraut ihm. Beobachtet ihn. Noch keine Beweise.",
+    "velka-schattenfinger": "Offizielle Feindschaft. Sucht Gründe sie rauszuwerfen. In Wahrheit: panische Angst vor Enthüllung — und ein Verlangen das sie nicht kontrollieren kann. Die einzige Frau die Sable je mehrfach zum Orgasmus gebracht hat. Hasst sich dafür.",
+    "gina": "Neugierig. Beeindruckt. Angezogen — aber würde es nie zugeben.",
+    "lotte": "Kennt sie kaum. Hält sie für geschwätzig."
+  },
+  "status": "alive",
+  "appearance": "Groß, muskulös, mit einem Narbengeflecht an der linken Schulter von einem Schwerthieb. Kurze schwarze Haare, graue Augen, kantiges Gesicht. Bewegt sich wie jemand, der jederzeit bereit ist zu kämpfen. Trägt immer Rüstung, selbst beim Essen.",
+  "voice": "Tief, knapp, wie Befehle. Aber wenn sie selten lacht, ist es warm und überraschend weich.",
+  "notes": "32 Jahre alt. War Söldnerin bevor Adalberts Vater sie anheuerte. Hat Adalbert das Schwertfechten beigebracht. Die einzige Person auf der Burg, die Hektor offen konfrontieren könnte — aber sie braucht einen Grund. Nachts im Wachturm ist sie verletzlich. Wer sie dort findet, sieht eine andere Sable.",
+  "howToWin": "Respekt, nicht Schmeichelei. Zeig Mut, Ehrlichkeit und Stärke — nicht körperlich, sondern die Art Stärke, die dem Schleier trotzt. Erinnere sie daran, dass sie mehr ist als eine Soldatin. Finde sie nachts im Wachturm.",
+  "howToLose": "Lüge sie an. Zeig Schwäche ohne Ehrlichkeit. Oder schlimmer — behandle sie wie einen Mann. Sie ist eine Frau die kämpft, keine Frau die vorgibt ein Mann zu sein."
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Velka",
+  "race": "Mensch (behauptet sie — niemand weiß es sicher)",
+  "role": "Offiziell: neue Küchengehilfin. In Wahrheit: ehemalige Edelhure aus dem Hafen von Silberbach, Diebin, Schurkin, Meisterin der Verkleidung.",
+  "personality": "Offenheit: sehr hoch — probiert alles, fürchtet nichts Neues. Gewissenhaftigkeit: sehr niedrig — lügt wie sie atmet, improvisiert alles. Extraversion: hoch — charismatisch, schlagfertig, jeder Raum gehört ihr. Verträglichkeit: niedrig — manipulativ, spielt mit Menschen. Aber unter allem: eine Überlebenskünstlerin die nie eine Wahl hatte. Neurotizismus: mittel — die Angst kommt nachts, wenn die Maske ab ist.",
+  "motivation": "Ruhm und Überleben. Will sich aus der Gosse hocharbeiten. Die Burg ist ihr größter Coup — Zugang zu Adeligen, Geheimnissen, Erpressungsmaterial. Aber tief unter dem Kalkül: sie will einmal in ihrem Leben *gewollt* werden, nicht *gekauft*.",
+  "secrets": [
+    "War die teuerste Hure im 'Silbernen Schwan' in Silberbach — berühmt für ihre Fähigkeit, jedem zu geben was er braucht. Mann, Frau, egal.",
+    "Hat sich mit gefälschten Papieren als Küchengehilfin eingeschlichen. Will Erpressungsmaterial über Haus Dunkelstein sammeln — für wen, weiß sie selbst noch nicht. Den Meistbietenden.",
+    "Ist eine ausgebildete Schurkin — Schlösser knacken, Gifte mischen, lautlos bewegen, Identitäten wechseln. Hat in Silberbach für das organisierte Verbrechen gearbeitet.",
+    "Sable ist ihre regelmäßige Kundin im Silbernen Schwan. Seit zwei Jahren. Sable kommt verkleidet, zahlt doppelt, sagt kein Wort — und lässt sich dann völlig gehen. Velka ist die einzige Frau bei der Sable die Kontrolle verliert.",
+    "Velka ihrerseits: Sable ist die einzige Kundin die Velka je zum Orgasmus gebracht hat. Nicht einmal — mehrmals. Hintereinander. Velka die Professionelle, die alles kontrolliert, verliert bei Sable jede Kontrolle. Es macht ihr Angst. Es macht sie süchtig.",
+    "Hat Sable auf der Burg erkannt — sofort. Sable hat Velka erkannt — und ist aschfahl geworden. Seitdem belauern sie sich. Offizielle Feindschaft. Sable sucht nach Gründen sie rauszuwerfen. Velka droht stumm mit Enthüllung.",
+    "Unter allem: Velka hat sich in Sable verliebt. Echte Gefühle. Zum ersten Mal. Und sie hasst sich dafür."
+  ],
+  "location": "burg-dunkelstein",
+  "faction": null,
+  "relationships": {
+    "sable-wachkapitaenin": "Erzfeindin. Ehemalige Kundin. Die einzige Frau die Velka zum Fühlen bringt. Gegenseitige Verachtung und gegenseitige Anziehung — ein Pulverfass.",
+    "adalbert-von-dunkelstein": "Zielobjekt. Will seine Geheimnisse. Hat noch keinen Zugang.",
+    "gina": "Noch nicht auf dem Radar — aber wenn sie merkt was Gina ist, wird sie entweder eine Verbündete oder die gefährlichste Gegnerin.",
+    "hektor-stallmeister": "Zu dumm für sie. Nützlicher Idiot, höchstens.",
+    "morrga-kraeuterhexe": "Rivale im Untergrund. Das Syndikt und Velkas alte Auftraggeber sind Konkurrenten.",
+    "lotte": "Unterschätzt sie — hält sie für harmlos. Fehler.",
+    "frau-bertha": "Fürchtet sie. Bertha hat einen Instinkt für Fälschungen."
+  },
+  "status": "alive",
+  "appearance": "Mittelgroß, geschmeidig, bewegt sich wie Wasser — immer im Fluss, nie ganz greifbar. Aschblondes Haar das sie je nach Rolle anders trägt. Graue Augen die die Farbe zu wechseln scheinen. Ein Gesicht das man für durchschnittlich halten könnte — bis sie will dass du hinschaust. Dann ist es verheerend. Eine kleine Narbe unter dem linken Ohr — Messer, vor Jahren.",
+  "voice": "Wechselt. Als Küchengehilfin: schüchtern, leiser Akzent. Als Velka: tief, langsam, jedes Wort eine Berührung. Bei Sable: bricht, wird echt, verliert die Kontrolle.",
+  "notes": "28 Jahre alt. Auf der Burg seit einer Woche — kurz vor Ginas Ankunft. Frau Bertha ist misstrauisch. Sable ist panisch. Morrga riecht eine Konkurrentin. Myrima hat bemerkt dass ihre Küchengehilfin-Papiere ungewöhnlich saubere Handschrift haben. WILDCARD: Velka könnte für Gina arbeiten, gegen Gina arbeiten, oder beides gleichzeitig. Sie ist loyal zu niemandem — bis jemand ihr einen Grund gibt.",
+  "howToWin": "Sei die Erste die sie nicht kaufen will sondern kennenlernen. Durchschaue ihre Masken — aber verurteile sie nicht. Zeig ihr dass sie mehr ist als ein Werkzeug. Und: frag sie nach Sable. Nicht als Waffe — mit echtem Interesse. Wenn Gina es schafft, Velka und Sable zusammenzubringen statt gegeneinander, gewinnt sie beide.",
+  "howToLose": "Versuche sie zu benutzen wie alle anderen. Oder verurteile ihre Vergangenheit. Oder: spiel ihr Spiel und verliere — Velka ist besser darin als du je sein wirst."
+}

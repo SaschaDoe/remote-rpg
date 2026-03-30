@@ -1,0 +1,9 @@
+{
+  "name": "Die Grauküste",
+  "description": "Eine raue, nebelverhangene Küstenregion. Steile Klippen fallen ins kalte Meer, und der Wind trägt den Geruch von Salz und Verfall. Kleine Fischerdörfer klammern sich an die Felsen, während im Landesinneren die Ländereien des Adels beginnen. An der Küste gibt es uralte Ruinen und heilige Quellen, an denen der Schleier dünn ist.",
+  "climate": "Kalt, neblig, regnerisch. Kurze Sommer, lange Winter.",
+  "dangerLevel": 4,
+  "locations": ["kraehennest", "burg-dunkelstein", "die-silberquelle"],
+  "factions": ["nachtsyndikt", "haus-dunkelstein"],
+  "notes": "Die Grauküste ist arm, aber wunderschön auf ihre düstere Art. Gerüchte über Schmuggler und eine geheime Organisation kursieren."
+}

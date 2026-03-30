@@ -1,0 +1,20 @@
+{
+  "name": "Schleiermagie",
+  "source": "Überall als schwache Strömung vorhanden — der Schleier zwischen den Welten. Konzentriert sich an heiligen Orten, Quellen und uralten Ruinen.",
+  "channel": "Geweihte Kleidungsstücke — bestickte Schals, mit Runen gewebte Handschuhe, Umhänge mit eingenähten Gebeten. Die Kleidung muss an einem heiligen Ort geweiht werden.",
+  "cost": "Man muss einen heiligen Ort aufsuchen, um die Kleidung zu weihen. Jede Anwendung kostet Klarheit des Geistes — wer zu oft wirkt, verliert sich in Visionen.",
+  "limitations": "Funktioniert nur mit geweihter Kleidung. Schwächer fernab heiliger Orte. Kinder in der Nähe dämpfen jede Magie.",
+  "sideEffects": "Visionen der anderen Seite des Schleiers. Bei häufigem Gebrauch: bleibende Veränderung der Augenfarbe zu Silber.",
+  "rules": [
+    "Doktrin der Absicht: Die Wirksamkeit eines Zaubers hängt direkt von der Klarheit und Stärke der Absicht des Wirkenden ab.",
+    "Fehlschlag lockt göttliche Kreaturen an, die feindselig werden.",
+    "Ein Zauber wird gewirkt, indem man seinen Namen ausspricht und die geweihte Kleidung berührt.",
+    "In der Nähe von Kindern ist alle Magie schwächer."
+  ],
+  "weakness": "Die Anwesenheit von Kindern neutralisiert Magie nahezu vollständig.",
+  "senses": "Magie fühlt sich als Temperaturwechsel an — Wärme bei heiliger Magie, schneidende Kälte bei dunkler.",
+  "visual": "Ein schimmernder Umriss des Wirkenden, wie ein durchscheinender Doppelgänger — sein Schleier-Ich.",
+  "explicitness": 6,
+  "reliability": 5,
+  "notes": "Nur wenige wissen noch, wie man Kleidung weiht. Das Wissen stirbt mit der verblassenden Göttin Vellara."
+}

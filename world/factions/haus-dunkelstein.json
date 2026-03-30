@@ -1,0 +1,14 @@
+{
+  "name": "Haus Dunkelstein",
+  "goals": "Die Grauküste kontrollieren, den Familiennamen wahren, das Geheimnis des elfischen Bluts verbergen",
+  "alignment": "Lawful Neutral mit dunkler Tendenz",
+  "symbol": "Ein schwarzer Turm auf grauem Grund, von Nebel umgeben",
+  "size": "Klein — eine Adelsfamilie mit wenigen Verbündeten",
+  "influence": "Hoch in der Region, unbedeutend im Königreich",
+  "wealth": "Moderat — die Grauküste ist arm, aber Burg Dunkelstein birgt alte Schätze",
+  "motivation": "Machterhalt und Kontrolle",
+  "motto": "Im Schatten wachen wir.",
+  "members": ["adalbert-von-dunkelstein"],
+  "internalConflicts": "Adalbert ist der letzte Dunkelstein. Er hat keinen Erben und weigert sich zu heiraten — die Vasallen werden unruhig.",
+  "notes": "Adalberts Vater starb vor zwei Jahren unter mysteriösen Umständen. Gerüchte sagen, der Schleier habe ihn geholt."
+}

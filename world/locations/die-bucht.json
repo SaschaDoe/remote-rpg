@@ -1,0 +1,9 @@
+{
+  "name": "Die Bucht unter Dunkelstein",
+  "type": "Strand / Schleier-Schwachstelle",
+  "description": "Eine schmale Bucht unter Burg Dunkelstein, eingeklemmt zwischen schwarzen Klippen. Über eine steile Treppe im Fels erreichbar. Hier ist der Schleier extrem dünn — Knochen der Toten wurden vom Meer angespült und leuchteten im Mondlicht. Gina hat den Riss teilweise geschlossen, aber ein schmaler Spalt bleibt.",
+  "region": "graukueste",
+  "features": ["Steile Felstreppe von der Burg", "Schmaler Schleier-Riss (teilweise geschlossen)", "Knochen der Toten am Strand"],
+  "mood": "Gefährlich. Kalt. Der Schleier flüstert.",
+  "notes": "Muss vollständig geschlossen werden als Teil des großen Rituals. Nicht allein betreten."
+}

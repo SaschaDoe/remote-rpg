@@ -1,0 +1,12 @@
+{
+  "name": "Gina",
+  "class": "Keine — einfache Fischerstochter (vorerst)",
+  "level": 1,
+  "hp": 8,
+  "location": "kraehennest",
+  "inventory": ["Einfaches Leinenkleid", "Dunkelrotes Kleid mit braunem Ledermieder", "Dunkelblaues Kleid (Geschenk von Adalbert)", "Weiche Lederschuhe", "Kleiner Fischereikorb", "Geweihtes besticktes Tuch (Schleiermagie, von Großmutter Mathilde)", "Bestickter Handschuh (von Großmutter, gegeben durch Winfried)", "Bündel Mondkraut (von Winfried)", "Leitfaden des Schleierwebens (Buch, von Adalbert)", "Weiße Blume (von Adalbert)"],
+  "quests": ["den-schleier-erneuern"],
+  "appearance": "Klein, schmal, mit dunklen Locken und auffallend großen, bernsteinfarbenen Augen. Schön auf eine Art, die die Leute zweimal hinschauen lässt — und dann schnell wegschauen, weil eine Fischerstochter nicht so aussehen sollte.",
+  "personality": "Schüchtern, aber mit einer stillen Glut unter der Oberfläche. Senkt den Blick wenn jemand sie anspricht, aber ihre Gedanken sind mutiger als ihre Worte. Sehnt sich nach etwas Größerem als das Dorf, traut sich aber kaum es zuzugeben.",
+  "notes": "Ihre Großmutter Mathilde kannte die Silberquelle und alte Geschichten über Vellara. Sie starb letzten Winter. Gina hat erfolgreich ihren ersten Schleier gewoben und einen Riss am Strand teilweise geschlossen. Dabei wurde sie von einer Totenhand gepackt — trägt jetzt ein Schleiermal am rechten Handgelenk. Die Toten können sie nun finden. Stärker als Mathilde, laut Adalbert."
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Myrima",
+  "race": "Halbzwergin (verbirgt es — gibt sich als kleine Menschenfrau aus)",
+  "role": "Bibliothekarin und Archivarin von Burg Dunkelstein",
+  "personality": "Offenheit: extrem hoch — besessen von Wissen, sammelt Geheimnisse wie andere Edelsteine. Gewissenhaftigkeit: sehr hoch — katalogisiert alles, vergisst nichts. Extraversion: sehr niedrig — stottert in Gruppen, blüht auf wenn sie allein mit jemandem ist. Verträglichkeit: hoch — sanft, hilfsbereit, will gefallen. Neurotizismus: hoch — Angst vor Zurückweisung, versteckt sich hinter Büchern.",
+  "motivation": "Peer pressure — passt sich an, versteckt wer sie wirklich ist, tut was erwartet wird. Aber tief in ihr brennt der Wunsch, einmal *gesehen* zu werden. Nicht als Bibliothekarin. Als Myrima.",
+  "secrets": [
+    "Ist eine Halbzwergin — ihre Mutter war eine Zwergin aus den Südbergen. Verbirgt es weil Zwerge in der Grauküste verachtet werden.",
+    "Hat die Prophezeiung der Vellara im Archiv gefunden — weiß mehr über das Ritual als Adalbert ahnt. Hat es ihm nicht gesagt.",
+    "Die Prophezeiung erwähnt eine 'dritte Hand am Webrahmen' — Myrima glaubt, sie selbst ist damit gemeint.",
+    "Verliebt sich in Menschen, die sie *sehen*. Wirklich sehen. Hinter die Brille und die Bücher. Hat sich bisher nur in Frauen verliebt — zwei Mal, unerwidert, schweigend.",
+    "War gestern Nacht auf der Galerie. Sie hat den Kuss gesehen. Nicht Hektor — Myrima. Sie hat es niemandem erzählt. Aber es hat ihr das Herz gebrochen, weil sie Adalbert seit Jahren heimlich bewundert hat — und jetzt sieht sie Gina und fühlt etwas Neues."
+  ],
+  "location": "burg-dunkelstein",
+  "faction": null,
+  "relationships": {
+    "adalbert-von-dunkelstein": "Einseitige Bewunderung. Hat seinen Elfenblut-Geheimnis in den Stammbüchern entdeckt. Schweigt aus Loyalität.",
+    "gina": "Geküsst worden. Zum ersten Mal. Kopfüber verliebt. Bereit über ihre Grenzen zu gehen.",
+    "lotte": "Auf Ginas Anweisung hin gesteht sie Lotte ihre Gefühle und bittet um Küssen-Übung. Ausgang offen.",
+    "hektor-stallmeister": "Weiß dass er Briefe schreibt — hat ihn im Archiv nach Siegelwachs suchen sehen.",
+    "lotte": "Beneidet sie um ihre Leichtigkeit."
+  },
+  "status": "alive",
+  "appearance": "Klein — kleiner als Gina. Kompakt gebaut, breite Schultern die sie unter weiten Kleidern versteckt. Honigbraune Haare in einem strengen Knoten. Bernsteinfarbene Augen hinter einer runden Brille. Tintenfinger. Riecht nach Pergament und Lavendel.",
+  "voice": "Leise, präzise, stottert wenn sie nervös ist. Wenn sie über etwas spricht das sie liebt — Bücher, Geschichte, den Schleier — verschwindet das Stottern und ihre Stimme wird melodisch.",
+  "notes": "26 Jahre alt. Auf der Burg seit 8 Jahren. Kennt jeden Winkel der Bibliothek, jedes Buch, jede Geheimkammer. HAT DEN KUSS IN DER BIBLIOTHEK GESEHEN — nicht Hektor. Hält das geheime Fach mit dem Schleier-Buch für ein Gerücht — weiß nicht dass Adalbert es benutzt hat. Die Prophezeiung, die sie gefunden hat, könnte der Schlüssel zum Ritual sein.",
+  "howToWin": "Sieh sie. Frag nach ihrem Namen, ihrem Wissen, ihren Gedanken — nicht nur nach Büchern. Entdecke ihr Geheimnis (Halbzwergin) und akzeptiere es. Zeig ihr, dass Verletzlichkeit keine Schwäche ist. Lade sie ein, am Webrahmen zuzusehen.",
+  "howToLose": "Ignoriere sie. Behandle sie als Werkzeug für Informationen. Oder entdecke ihr Geheimnis und reagiere mit Ekel oder Mitleid statt Respekt."
+}

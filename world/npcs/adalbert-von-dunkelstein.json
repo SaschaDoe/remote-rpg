@@ -1,0 +1,19 @@
+{
+  "name": "Adalbert von Dunkelstein",
+  "race": "Mensch (mit elfischem Blut, was er verbirgt)",
+  "role": "Junger Lord von Burg Dunkelstein, Verwalter der Grauküste",
+  "personality": "Offenheit: hoch — neugierig auf die Welt jenseits seiner Mauern. Gewissenhaftigkeit: sehr hoch — pflichtbewusst bis zur Selbstaufgabe. Extraversion: niedrig — zurückgezogen, spricht wenig. Verträglichkeit: mittel — höflich, aber mit einer kalten Schärfe wenn provoziert. Neurotizismus: hoch — innerlich zerrissen, kämpft mit seiner Natur.",
+  "motivation": "Familie — er will den Namen Dunkelstein ehren, aber seine elfische Natur zerrt an ihm. Er sucht nach etwas, das er nicht benennen kann.",
+  "secrets": [
+    "Sein Blut ist halb elfisch — seine verstorbene Mutter war eine Elfe, die sich als Menschenfrau ausgab",
+    "Er kann den Schleier spüren, hat aber Angst vor dieser Fähigkeit",
+    "Nachts wandert er rastlos durch die Burg — die Diener nennen ihn den Schattenlord"
+  ],
+  "location": "burg-dunkelstein",
+  "faction": "haus-dunkelstein",
+  "relationships": { "gina": "Angezogen, kämpft dagegen an. Respektiert sie. Hat sie als Schleierweberin auf die Burg eingeladen.", "winfried-kraehe": "Erkennt seinen geweihten Umhang. Misstraut ihm noch, aber hört auf ihn." },
+  "status": "alive",
+  "appearance": "Groß, schlank, mit auffallend hellen Augen die manchmal silbern schimmern. Dunkles Haar, scharfe Gesichtszüge. Bewegt sich mit unnatürlicher Geschicklichkeit. Trägt immer Handschuhe — um die feinen Linien an seinen Fingern zu verbergen, die sein elfisches Erbe verraten.",
+  "voice": "Leise, bedacht. Jedes Wort klingt, als hätte er es sorgfältig gewählt. Selten laut, aber wenn — schneidend.",
+  "notes": "Lawful mit dunkler Tendenz — nicht böse, aber bereit moralische Grenzen zu überschreiten für das, was er für richtig hält. 27 Jahre alt."
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Hektor",
+  "race": "Mensch",
+  "role": "Stallmeister von Burg Dunkelstein, Vasall der Silberbachs",
+  "personality": "Offenheit: niedrig — misstrauisch, konservativ. Gewissenhaftigkeit: hoch — pflichtbewusst gegenüber seinen wahren Herren. Extraversion: mittel — freundlich nach außen, berechnend dahinter. Verträglichkeit: niedrig — sieht Menschen als Figuren auf einem Brett. Neurotizismus: niedrig — kaltblütig.",
+  "motivation": "Dient heimlich den Silberbachs. Soll dafür sorgen, dass Haus Dunkelstein fällt und die Silberbachs die Grauküste übernehmen. Adalberts Weigerung, die Silberbach-Tochter zu heiraten, war der letzte Anlass — jetzt sucht Hektor aktiv nach Gründen, den Lord zu stürzen.",
+  "secrets": [
+    "Ist ein Spion der Silberbachs",
+    "Hat Ginas Nachthemd aus ihrem Zimmer gestohlen als Beweis für eine Affäre",
+    "Hat gestern Abend von der Galerie aus den Kuss in der Bibliothek beobachtet",
+    "Schreibt regelmäßig Berichte an Graf von Silberbach"
+  ],
+  "location": "burg-dunkelstein",
+  "faction": "Silberbachs (heimlich)",
+  "relationships": {
+    "adalbert-von-dunkelstein": "Dient ihm nach außen, verrät ihn im Geheimen",
+    "gina": "Sieht sie als Werkzeug, um Adalbert zu Fall zu bringen"
+  },
+  "status": "alive",
+  "appearance": "Breit, kräftig, mit einem freundlichen Bauerngesicht das seine Schläue verbirgt. Immer leicht nach Pferd riechend. Dunkle Augen die alles registrieren.",
+  "voice": "Laut und herzlich in der Öffentlichkeit. Leise und präzise wenn er allein ist.",
+  "notes": "Gefährlichster Gegenspieler auf der Burg. Muss neutralisiert werden, bevor er den Silberbachs schreibt."
+}

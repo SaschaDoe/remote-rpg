@@ -1,0 +1,15 @@
+{
+  "name": "Hektors Verrat",
+  "description": "Der Stallmeister Hektor ist ein Spion der Silberbachs. Er hat Ginas Nachthemd gestohlen und sammelt Beweise für eine Affäre zwischen dem Lord und der Fischerstochter. Morrga hat Informationen über seine Briefe. Sable ahnt etwas. Myrima hat ihn Siegelwachs holen sehen. Der Beweis muss gefunden und Hektor neutralisiert werden, bevor er den Silberbachs schreibt.",
+  "status": "active",
+  "givenBy": "lotte",
+  "objectives": [
+    "Das gestohlene Nachthemd finden oder unschädlich machen",
+    "Beweise für Hektors Verbindung zu den Silberbachs sammeln",
+    "Verbündete gegen Hektor gewinnen (Sable? Morrga? Myrima?)",
+    "Hektor konfrontieren oder entlarven"
+  ],
+  "timeLimit": "Bevor er den Brief abschickt",
+  "reward": "Sicherheit für Gina und Adalbert",
+  "notes": "Morrga hat die stärksten Beweise. Sable hat die Autorität. Myrima hat die Archivkenntnisse. Jede könnte helfen — aber jede hat ihren eigenen Preis."
+}

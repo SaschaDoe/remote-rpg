@@ -1,0 +1,18 @@
+{
+  "name": "Den Schleier erneuern",
+  "description": "Die Göttin Vellara verblasst. In drei Mondwechseln reißt der Schleier zwischen der Welt der Lebenden und der Toten. Gina muss das Schleierweben lernen und gemeinsam mit Adalbert ein Ritual an der Silberquelle durchführen, um ein neues Schleiertuch zu weben.",
+  "status": "active",
+  "givenBy": "winfried-kraehe",
+  "objectives": [
+    "Das Schleierweben lernen",
+    "Die Silberquelle finden und vorbereiten",
+    "Geweihte Kleidung für das Ritual herstellen",
+    "Das Ritual mit Adalbert als Anker und Myrima als Leserin durchführen",
+    "NEU: Gina muss durch den Riss gehen und ihn von der anderen Seite schließen",
+    "NEU: Die Verbindung zwischen allen muss tief genug sein, dass der Faden nicht reißt",
+    "NEU: Myrima muss den Rückweg finden können"
+  ],
+  "timeLimit": "Drei Mondwechsel",
+  "reward": "Vellara lebt, der Schleier hält, die Toten bleiben wo sie sind",
+  "notes": "Adalbert (der Turm) und Gina (die Flamme) müssen es zusammen tun. Die Verbindung zwischen ihnen scheint Teil der Magie zu sein."
+}

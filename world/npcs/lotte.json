@@ -1,0 +1,25 @@
+{
+  "name": "Lotte",
+  "race": "Mensch",
+  "role": "Magd auf Burg Dunkelstein / Ginas Vertraute und Geliebte",
+  "personality": "Offenheit: sehr hoch — neugierig, mutig, bereit Grenzen zu überschreiten. Gewissenhaftigkeit: mittel — pflichtbewusst als Magd, aber folgt ihrem Herzen. Extraversion: hoch — redselig, warmherzig, der Mittelpunkt jedes Raums. Verträglichkeit: sehr hoch — loyal bis zum Letzten. Neurotizismus: niedrig — praktisch, nimmt Dinge wie sie kommen.",
+  "motivation": "Gina beschützen und lieben. Zum ersten Mal in ihrem Leben etwas tun, das sie selbst will.",
+  "secrets": [
+    "Liebt Frauen — hat es jahrelang versteckt seit dem Kuss mit der Bäckerstochter in Krähennest",
+    "Verliebt sich in Gina — offen und ehrlich darüber",
+    "Kann nähen — sehr gut. Schneidert das Ritualkleid",
+    "Kennt jeden Winkel der Burg und jedes Gerücht"
+  ],
+  "location": "burg-dunkelstein",
+  "faction": null,
+  "relationships": {
+    "gina": "Geliebte. Vertraute. Beschützerin.",
+    "adalbert-von-dunkelstein": "Respektiert ihn. Nicht eifersüchtig — versteht dass Gina ihn für den Schleier braucht.",
+    "frau-bertha": "Gutes Verhältnis. Bertha hat Lotte praktisch aufgezogen.",
+    "hektor-stallmeister": "Misstraut ihm zutiefst."
+  },
+  "status": "alive",
+  "appearance": "Rote Locken unter einer Magd-Haube. Sommersprossen über Nase und Wangen. Warme braune Augen. Kräftig gebaut, praktische Hände. Strahlt Wärme aus.",
+  "voice": "Lebhaft, schnell, oft eine Oktave zu hoch wenn sie aufgeregt ist. Flüsternd wenn es wichtig wird.",
+  "notes": "22 Jahre alt. Auf der Burg seit sie 14 war. Ihre Familie lebt in einem Dorf südlich der Grauküste. Frau Bertha ist ihre Mentorin. Näht gerade ein dunkelrotes Ritualkleid mit schwarzer Spitze für Gina."
+}

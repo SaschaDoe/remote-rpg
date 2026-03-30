@@ -1,0 +1,9 @@
+{
+  "name": "Die Silberquelle",
+  "type": "Heiliger Ort",
+  "description": "Eine versteckte Quelle in einer Felsspalte nahe Krähennest. Das Wasser schimmert silbern bei Mondlicht. Der Schleier zwischen den Welten ist hier besonders dünn. Wer hier trinkt, hat manchmal Visionen. Nur wenige kennen den genauen Ort — er wird von Generation zu Generation weitergegeben.",
+  "region": "graukueste",
+  "features": ["Silbern schimmerndes Wasser", "Uralte Runen an den Felswänden", "Schleier-Ort (Magie ist hier stark)"],
+  "mood": "Still, ehrfürchtig, zeitlos. Man hört sein eigenes Herz schlagen.",
+  "notes": "Hier kann Kleidung geweiht werden. Die Spielerin kennt diesen Ort — ihre verstorbene Großmutter hat sie als Kind hierhergebracht."
+}

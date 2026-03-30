@@ -1,0 +1,23 @@
+{
+  "name": "Winfried Krähe",
+  "race": "Mensch",
+  "role": "Kultist der Vellara / Kräutersammler",
+  "personality": "Offenheit: sehr hoch — mystisch, spricht in Rätseln. Gewissenhaftigkeit: niedrig — chaotisch, folgt seiner Intuition. Extraversion: mittel — freundlich zu wenigen, misstrauisch gegenüber vielen. Verträglichkeit: hoch — sanft, hilfsbereit, aber mit einer verborgenen Intensität. Neurotizismus: mittel — ruhig, aber manchmal packt ihn etwas.",
+  "motivation": "Die verblassende Göttin Vellara am Leben halten. Er glaubt, dass jemand Besonderes kommen wird, der den Schleier erneuern kann.",
+  "secrets": [
+    "Er ist der letzte verbliebene Priester der Vellara",
+    "Er kennt die Silberquelle und wacht heimlich über sie",
+    "Er hat eine Eule namens Nachtauge, die seine Augen in der Ferne leiht",
+    "Er wusste von der Großmutter der Spielerin — und wartet auf ihre Enkelin"
+  ],
+  "location": "kraehennest",
+  "faction": null,
+  "relationships": {
+    "adalbert-von-dunkelstein": "Misstrauisch aber hoffnungsvoll — sieht ihn als den Turm aus der Prophezeiung",
+    "gina": "Beschützend. Hat seit Jahren auf sie gewartet. Sieht Mathilde in ihr."
+  },
+  "status": "alive",
+  "appearance": "Alt, aber sehnig und zäh. Weißes Haar, wettergebräuntes Gesicht. Trägt immer einen zerschlissenen Umhang voller eingestickter Symbole — einen der letzten geweihten Umhänge. Eine weiße Eule sitzt oft auf seiner Schulter.",
+  "voice": "Heiser, warm. Spricht wie jemand, der mehr weiß als er sagt. Beendet Sätze manchmal nicht.",
+  "notes": "Neutral. Mutig trotz seines Alters. 68 Jahre. Die Dorfbewohner halten ihn für einen harmlosen Sonderling."
+}

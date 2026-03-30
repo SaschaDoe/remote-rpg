@@ -1,0 +1,10 @@
+{
+  "name": "Krähennest",
+  "type": "Fischerdorf",
+  "description": "Ein kleines, wunderschön dekoriertes Fischerdorf an den Klippen der Grauküste. Bunte Bänder flattern an den Häusern — ein seltsamer Kontrast zur Düsternis der Umgebung. Die Bewohner sind arm aber stolz. Am Rand des Dorfes entspringt eine natürliche Quelle, die ins Meer fließt. Nachts hört man manchmal Gesang vom Wasser.",
+  "region": "graukueste",
+  "features": ["Natürliche Quelle am Dorfrand", "Alter Leuchtturm", "Fischmarkt", "Taverne 'Zur Salzigen Möwe'"],
+  "population": "etwa 200 Seelen",
+  "mood": "Ruhig bei Tag, unheimlich bei Nacht. Die Dorfbewohner sprechen nicht über das, was nachts am Wasser geschieht.",
+  "notes": "Hier lebt die Spielerin. Gerüchte: Der Leuchtturm sei verflucht. Die Quelle habe heilende Kräfte."
+}

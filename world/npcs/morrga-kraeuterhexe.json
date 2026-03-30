@@ -1,0 +1,32 @@
+{
+  "name": "Morrga",
+  "race": "Mensch (mit Gerüchten über 'wildes Blut')",
+  "role": "Kräuterheilerin und Köchin der Burg — offiziell. Heimliche Kontaktperson des Nachtsyndikts.",
+  "personality": "Offenheit: sehr hoch — wild, ungezähmt, spricht aus was andere denken. Gewissenhaftigkeit: niedrig — chaotisch, folgt Instinkten, improvisiert. Extraversion: hoch — laut, direkt, füllt jeden Raum. Verträglichkeit: mittel — großzügig zu denen die sie mag, scharf zu allen anderen. Neurotizismus: niedrig — fürchtet fast nichts. Fast.",
+  "motivation": "Xenia — Gastfreundschaft, Schutz der Fremden und Ausgestoßenen. Sie versteckt Flüchtlinge in den Burgtunneln, schmuggelt Medizin zu den Armen. Das Nachtsyndikt nutzt ihre Küche als Treffpunkt.",
+  "secrets": [
+    "Ist die Kontaktperson des Nachtsyndikts auf Burg Dunkelstein. Nutzt die Tunnel unter der Burg für Schmuggel.",
+    "Hat unheilige Kräuterkunde — kann Tränke brauen die an der Grenze zur Magie liegen. Schlaftränke, Liebestränke, Gifte. Alles aus Pflanzen.",
+    "Kennt die Tunnel unter der Burg besser als jeder andere — auch die, die zur Bucht führen wo der Schleier-Riss ist.",
+    "Weiß von Hektors Verrat — das Syndikt hat Informationen über seine Briefe an die Silberbachs. Hält es als Druckmittel zurück.",
+    "Ihre größte Angst: Einsamkeit. Hinter der lauten Fassade ist eine Frau die nachts die Katzen der Burg zu sich ins Bett holt weil die Stille sie fertigmacht.",
+    "Fühlt sich zu Frauen hingezogen die das Gegenteil von ihr sind — leise, sanft, klein. Gina ist exakt ihr Typ."
+  ],
+  "location": "burg-dunkelstein",
+  "faction": "nachtsyndikt",
+  "relationships": {
+    "adalbert-von-dunkelstein": "Respektiert ihn, aber betrügt ihn — das Syndikt kommt zuerst. Schlechtes Gewissen.",
+    "gina": "Will sie beschützen. Will sie verführen. Will sie in das Syndikt einweihen. Alles gleichzeitig.",
+    "hektor-stallmeister": "Weiß von seinem Verrat. Könnte ihn jederzeit auffliegen lassen — wartet auf den richtigen Moment.",
+    "winfried-kraehe": "Kennt ihn seit Jahren. Respektiert ihn als Kräuterkenner. Er weiß von ihrer Syndikt-Verbindung und schweigt.",
+    "sable-wachkapitaenin": "Spielen Katz und Maus seit Jahren. Sable ahnt den Schmuggel. Morrga genießt das Spiel.",
+    "lotte": "Mag sie. Füttert sie mit Extra-Portionen und Klatsch.",
+    "myrima-bibliothekarin": "Findet sie süß. Hat ihr einmal ein Buch über Kräuterkunde geschenkt. Myrima hat gestottert."
+  },
+  "status": "alive",
+  "appearance": "Groß, breitschultrig, mit wilden schwarzen Haaren die sie mit Kräuterbändern zusammenbindet. Dunkle Haut, bernsteinfarbene Augen (was Gerüchte über 'wildes Blut' nährt). Starke Hände, immer nach Gewürzen riechend. Trägt ein ledernes Kochschürze über einem tief geschnittenen Kleid. Ein Tattoo eines Mondes am Schlüsselbein.",
+  "voice": "Laut, rauchig, mit einem Akzent aus dem Süden. Lacht viel und herzhaft. Wenn sie flüstert, klingt es wie ein Versprechen.",
+  "notes": "29 Jahre alt. Kam vor 5 Jahren auf die Burg — niemand weiß genau woher. Ihre Küche ist das inoffizielle Herz der Burg — jeder kommt dorthin, von den Wachen bis zu Frau Bertha. Kennt die Tunnel zu der Bucht, wo der Schleier-Riss ist. Könnte Gina den Zugang zeigen — für einen Preis. Hat Gewürze die bei Ritualen als Opfergaben dienen können. Die Prophezeiung, die Myrima gefunden hat, erwähnt 'Gewürze als Gabe zwischen den Welten'.",
+  "howToWin": "Sei ehrlich, sei mutig, sei direkt. Morrga verachtet Spielchen — sag was du willst. Iss ihr Essen und lob es aufrichtig. Frag nach den Tunneln — zeig dass du keine Angst hast. Finde sie nachts in der Küche wenn sie für sich allein kocht und traurig ist.",
+  "howToLose": "Sei unehrlich. Verurteile das Syndikt ohne zu verstehen warum es existiert. Oder schlimmer — hab Angst vor ihr. Morrga will keine Bewunderung, sie will eine Gleichgestellte."
+}
